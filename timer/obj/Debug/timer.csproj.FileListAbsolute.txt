@@ -1,0 +1,10 @@
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\bin\Debug\timer.exe.config
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\bin\Debug\timer.exe
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\bin\Debug\timer.pdb
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.Form1.resources
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.exe
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.pdb
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.csprojAssemblyReference.cache
+C:\Users\27dro\source\repos\Визуальное\Laba 5\timer\obj\Debug\timer.Form2.resources

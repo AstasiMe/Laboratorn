@@ -1,0 +1,10 @@
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\bin\Debug\Budilnic.exe.config
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\bin\Debug\Budilnic.exe
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\bin\Debug\Budilnic.pdb
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.csprojAssemblyReference.cache
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.Form1.resources
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.Form2.resources
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.Properties.Resources.resources
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.csproj.GenerateResource.cache
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.exe
+C:\Users\27dro\source\repos\Визуальное\Laba 5\Budilnic\obj\Debug\Budilnic.pdb
