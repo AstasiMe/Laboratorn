@@ -8,4 +8,3 @@ C:\Users\27dro\source\repos\Визуальное\Laba6\Laba6\LoginParol\bin\Debu
 C:\Users\27dro\source\repos\Визуальное\Laba6\Laba6\LoginParol\obj\Debug\LoginParol.exe
 C:\Users\27dro\source\repos\Визуальное\Laba6\Laba6\LoginParol\obj\Debug\LoginParol.pdb
 C:\Users\27dro\source\repos\Визуальное\Laba6\Laba6\LoginParol\obj\Debug\LoginParol.Form2.resources
-C:\Users\27dro\source\repos\Визуальное\Laba6\Laba6\LoginParol\obj\Debug\LoginParol.Form3.resources

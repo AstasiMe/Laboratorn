@@ -16,6 +16,7 @@ namespace LoginParol
     {
         class User
         {
+           public int forClose;
             public string login, parol;
             public void Read()
             {
@@ -37,41 +38,51 @@ namespace LoginParol
                     {
                         if (line == string.Format(login + " " + parol) && login == "pass")
                         {
-                            Form3 f3 = new Form3();
-                            f3.Show();  
+                            Form2 f2 = new Form2();
+                            f2.Text = "User";
+                            f2.Show();  
                             prover = false;
                             line = null;
+                            sr.Close();
                         }
                     }
                 } while (line != null);
-               
+
                 if (prover == true)
-                MessageBox.Show(string.Format("Неверный логин или пароль"));
+                {
+                    forClose = 1;
+                    MessageBox.Show(string.Format("Неверный логин или пароль"));
+                }
             }
         }
         public Form1()
         {
             InitializeComponent();
+          
         }
 
         public void button1_Click(object sender, EventArgs e)
         {
-            User user = new User();
-            user.login = textBox1.Text;
-            user.parol = textBox2.Text;
+            User user = new User
+            {
+                login = textBox1.Text,
+                parol = textBox2.Text
+            };
             user.Read();
-            if (textBox1.Text =="pass" || textBox1.Text == "admin")
+            if ((textBox1.Text == "admin" || textBox1.Text == "pass") && user.forClose != 1)
             Visible = false;
+            
             
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {   
+            Application.Exit();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
-            Close();
-            Form2 f2 = new Form2();
-            f2.Close();
-            Form3 f3 = new Form3();
-            f3.Close();
+
         }
     }
 }
